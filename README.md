@@ -1,4 +1,4 @@
-# Data Analysis and Interpretation (DAI) Project
+# Data Analysis and Interpretation Project (PH219)
 #### Duration: September'21 to November'21
 Analyzed and interpreted data consisting of 4 million observations of high energy (Center of Mass Energy ∼13 Tev) proton-proton collisions 
 generated using PYTHIA 8 Monte Carlo event generator. We have studied the relationship between net-charge fluctuation and multiplicity by plotting μ (mean),
